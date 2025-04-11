@@ -1,4 +1,3 @@
 resource "axurr"{
-    name=chyalocation
-    location=east
+    name=chyalocationchys
 }
